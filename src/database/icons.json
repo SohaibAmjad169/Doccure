@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "url": "",
+        "icon": "/images/facebook-svgrepo-com.svg",
+        "alt": "Facebook"
+    },
+    {
+        "id": 2,
+        "url": "/",
+        "icon": "/images/instagram.svg",
+        "alt": "Instagram"
+    },
+    {
+        "id": 3,
+        "url": "",
+        "icon": "/images/twitter.svg",
+        "alt": "Twitter"
+    },
+    {
+        "id": 4,
+        "url": "",
+        "icon": "/images/linkedin.svg",
+        "alt": "likedin"
+    }
+]

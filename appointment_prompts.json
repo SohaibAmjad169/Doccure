@@ -1,0 +1,702 @@
+[
+    {
+        "prompt": "I want to book an appointment for the Nephrologist Clinic - Zuniga-Young for Nephrologist at New Orleans? I want to book an appointment as soon as possibl. It will be at December 17, 2028, 11:00 AM, Sun. I Elijah Anderson, my contact information is 6165671438, user6693@doccure.com. My payment information is Lucas Harris, 1558660731174561, 861, Expiry: 11/03, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Elijah",
+                "lastName": "Anderson",
+                "email": "user6693@doccure.com",
+                "phone": "6165671438"
+            },
+            "bookingDetails": {
+                "selectedDate": "17-12-2028",
+                "selectedDay": "Sun",
+                "selectedTime": "11:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor Darren Taylor",
+                    "speciality": "Nephrologist",
+                    "clinic": "Nephrologist Clinic - Zuniga-Young",
+                    "location": "New Orleans",
+                    "contact": {
+                        "phone": "001-672-397-8861x821",
+                        "email": "jerryhamilton@example.com"
+                    },
+                    "appointmentFee": 249
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Lucas Harris",
+                "cardNumber": "1558660731174561",
+                "expiryMonth": "11",
+                "expiryYear": "03",
+                "cvv": "861"
+            }
+        }
+    },
+    {
+        "prompt": "I am looking to book an appointment. And I need your help to find Infectious Disease Specialist Infectious Disease Specialist Clinic - Barnett-Richardson near Phoenix for me. Book the slot 11:00 AM, July 05, 2026, Sun. I am Emma Martin, contact information 5070030057, user6162@yahoo.com.Card Details are Mia Scott, 2555020982129288, 846, Expiry: 07/71, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Emma",
+                "lastName": "Martin",
+                "email": "user6162@yahoo.com",
+                "phone": "5070030057"
+            },
+            "bookingDetails": {
+                "selectedDate": "05-07-2026",
+                "selectedDay": "Sun",
+                "selectedTime": "11:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor David Gutierrez",
+                    "speciality": "Infectious Disease Specialist",
+                    "clinic": "Infectious Disease Specialist Clinic - Barnett-Richardson",
+                    "location": "Phoenix",
+                    "contact": {
+                        "phone": "840-690-4373x68551",
+                        "email": "cynthia03@example.com"
+                    },
+                    "appointmentFee": 460
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Mia Scott",
+                "cardNumber": "2555020982129288",
+                "expiryMonth": "07",
+                "expiryYear": "71",
+                "cvv": "846"
+            }
+        }
+    },
+    {
+        "prompt": "I need to book an appointment to meet the doctor soon. Give me the details of most reliable Psychiatrist Psychiatrist Clinic - Lewis-Rodriguez, and it will be near Las Vegas. The time will be 10:00 AM, and the date will be January 21, 2018 on Sun. I will provide you my information including card information. Amelia Martin, 1852558044, user5686@yahoo.com.Payment Details Lucas Scott, 2405757748248058, 447, Expiry: 07/ 10, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Amelia",
+                "lastName": "Martin",
+                "email": "user5686@yahoo.com",
+                "phone": "1852558044"
+            },
+            "bookingDetails": {
+                "selectedDate": "21-01-2018",
+                "selectedDay": "Sun",
+                "selectedTime": "10:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor Cynthia Brewer",
+                    "speciality": "Psychiatrist",
+                    "clinic": "Psychiatrist Clinic - Lewis-Rodriguez",
+                    "location": "Las Vegas",
+                    "contact": {
+                        "phone": "(989)822-5512x06564",
+                        "email": "tonirodriguez@example.com"
+                    },
+                    "appointmentFee": 445
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Lucas Scott",
+                "cardNumber": "2405757748248058",
+                "expiryMonth": "07",
+                "expiryYear": "10",
+                "cvv": "447"
+            }
+        }
+    },
+    {
+        "prompt": "Hi, I am looking for a Endocrinologist Clinic - Porter, Johnson and Padilla at Orlando that specializes in Endocrinologist. It has to be nearby. Also, I might need an appointment. My details are Sophia Scott and my contact information is 2493953208, user6402@outlook.com, you can choose this 11:00 AM, July 18, 2019, Thu, my payment information is  John White, 4323708245168552, 745, Expiry:  07/07, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Sophia",
+                "lastName": "Scott",
+                "email": "user6402@outlook.com",
+                "phone": "2493953208"
+            },
+            "bookingDetails": {
+                "selectedDate": "18-07-2019",
+                "selectedDay": "Thu",
+                "selectedTime": "11:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor Lori Jenkins",
+                    "speciality": "Endocrinologist",
+                    "clinic": "Endocrinologist Clinic - Porter, Johnson and Padilla",
+                    "location": "Orlando",
+                    "contact": {
+                        "phone": "997.222.0211",
+                        "email": "hicksjanice@example.com"
+                    },
+                    "appointmentFee": 230
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "John White",
+                "cardNumber": "4323708245168552",
+                "expiryMonth": "07",
+                "expiryYear": "07",
+                "cvv": "745"
+            }
+        }
+    },
+    {
+        "prompt": "Hi, I want to schedule a check-up for me at a Rheumatologist Rheumatologist Clinic - Lewis and Sons at Orlando. Give me the earliest possible slot at 3:00 PM, October 05, 2028, Thu, so that I can get myself checked. I Charlotte Brown, with my contact information 4053112598, user1837@gmail.com, and the payment details are Olivia Scott, 5179807147655419, 336, Expiry: 09/19, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Charlotte",
+                "lastName": "Brown",
+                "email": "user1837@gmail.com",
+                "phone": "4053112598"
+            },
+            "bookingDetails": {
+                "selectedDate": "05-10-2028",
+                "selectedDay": "Thu",
+                "selectedTime": "3:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Christopher Golden",
+                    "speciality": "Rheumatologist",
+                    "clinic": "Rheumatologist Clinic - Lewis and Sons",
+                    "location": "Orlando",
+                    "contact": {
+                        "phone": "873-464-0142",
+                        "email": "garciasonya@example.org"
+                    },
+                    "appointmentFee": 193
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Olivia Scott",
+                "cardNumber": "5179807147655419",
+                "expiryMonth": "09",
+                "expiryYear": "19",
+                "cvv": "336"
+            }
+        }
+    },
+    {
+        "prompt": "I am looking to book an appointment. And I need your help to find General Surgeon General Surgeon Clinic - Robles-Mills near Houston for me. Book the slot 1:00 PM, February 07, 2022, Mon. I am Daniel Wright, contact information 6531454257, user8867@yahoo.com.Card Details are Liam Adams, 1153984205011535, 385, Expiry: 09/79, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Daniel",
+                "lastName": "Wright",
+                "email": "user8867@yahoo.com",
+                "phone": "6531454257"
+            },
+            "bookingDetails": {
+                "selectedDate": "07-02-2022",
+                "selectedDay": "Mon",
+                "selectedTime": "1:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Cynthia Garrett",
+                    "speciality": "General Surgeon",
+                    "clinic": "General Surgeon Clinic - Robles-Mills",
+                    "location": "Houston",
+                    "contact": {
+                        "phone": "9742783228",
+                        "email": "wendy00@example.org"
+                    },
+                    "appointmentFee": 166
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Liam Adams",
+                "cardNumber": "1153984205011535",
+                "expiryMonth": "09",
+                "expiryYear": "79",
+                "cvv": "385"
+            }
+        }
+    },
+    {
+        "prompt": "Hi, i am looking to book an appointment at Nephrologist Clinic - Simmons-Hardy with a good Nephrologist doctor. I suggest you check the clinic at Denver because it is near my home. The schedule that suits me is November 26, 2027, Fri, 10:00 AM. My information is Mia Martin, 2420911210, user7952@mail.com.My Card Details Olivia Walker, 3373082318411501, 692, Expiry: 10/27, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Mia",
+                "lastName": "Martin",
+                "email": "user7952@mail.com",
+                "phone": "2420911210"
+            },
+            "bookingDetails": {
+                "selectedDate": "26-11-2027",
+                "selectedDay": "Fri",
+                "selectedTime": "10:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor Patrick Williams",
+                    "speciality": "Nephrologist",
+                    "clinic": "Nephrologist Clinic - Simmons-Hardy",
+                    "location": "Denver",
+                    "contact": {
+                        "phone": "407-862-4257x5452",
+                        "email": "hannah23@example.net"
+                    },
+                    "appointmentFee": 107
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Olivia Walker",
+                "cardNumber": "3373082318411501",
+                "expiryMonth": "10",
+                "expiryYear": "27",
+                "cvv": "692"
+            }
+        }
+    },
+    {
+        "prompt": "I want you to book an appointment at Infectious Disease Specialist Clinic - Wallace-Harris with Infectious Disease Specialist at Los Angeles so that I can book a slot for Fri, June 09, 2034 My information is Lucas Wright, 9293906925, user1034@doccure.com. My card information is Amelia Anderson, 9437489568265189, 474,Expiry: 06/13, Credit Card. Please save it for the next time.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Lucas",
+                "lastName": "Wright",
+                "email": "user1034@doccure.com",
+                "phone": "9293906925"
+            },
+            "bookingDetails": {
+                "selectedDate": "09-06-2034",
+                "selectedDay": "Fri",
+                "selectedTime": "2:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Jason Molina",
+                    "speciality": "Infectious Disease Specialist",
+                    "clinic": "Infectious Disease Specialist Clinic - Wallace-Harris",
+                    "location": "Los Angeles",
+                    "contact": {
+                        "phone": "+1-345-969-6672x784",
+                        "email": "charris@example.com"
+                    },
+                    "appointmentFee": 282
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Amelia Anderson",
+                "cardNumber": "9437489568265189",
+                "expiryMonth": "06",
+                "expiryYear": "13",
+                "cvv": "474"
+            }
+        }
+    },
+    {
+        "prompt": "Hi, i am looking to book an appointment at Neurologist Clinic - Pollard-Graham with a good Neurologist doctor. I suggest you check the clinic at Washington D.C. because it is near my home. The schedule that suits me is September 02, 2023, Sat, 10:00 AM. My information is Amelia King, 5625393136, user6438@mail.com.My Card Details Ethan Anderson, 1572937113396544, 619, Expiry: 10/36, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Amelia",
+                "lastName": "King",
+                "email": "user6438@mail.com",
+                "phone": "5625393136"
+            },
+            "bookingDetails": {
+                "selectedDate": "02-09-2023",
+                "selectedDay": "Sat",
+                "selectedTime": "10:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor Jeremy Jones",
+                    "speciality": "Neurologist",
+                    "clinic": "Neurologist Clinic - Pollard-Graham",
+                    "location": "Washington D.C.",
+                    "contact": {
+                        "phone": "308.266.9439x0908",
+                        "email": "mary84@example.org"
+                    },
+                    "appointmentFee": 151
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Ethan Anderson",
+                "cardNumber": "1572937113396544",
+                "expiryMonth": "10",
+                "expiryYear": "36",
+                "cvv": "619"
+            }
+        }
+    },
+    {
+        "prompt": "Hi, i am looking to book an appointment at Radiologist Clinic - Cunningham, Gay and Powell with a good Radiologist doctor. I suggest you check the clinic at Austin because it is near my home. The schedule that suits me is November 01, 2034, Wed, 11:00 AM. My information is Sophia Walker, 3424256363, user7904@outlook.com.My Card Details Ethan Brown, 9947704149525020, 251, Expiry: 11/43, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Sophia",
+                "lastName": "Walker",
+                "email": "user7904@outlook.com",
+                "phone": "3424256363"
+            },
+            "bookingDetails": {
+                "selectedDate": "01-11-2034",
+                "selectedDay": "Wed",
+                "selectedTime": "11:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor Mary Bailey",
+                    "speciality": "Radiologist",
+                    "clinic": "Radiologist Clinic - Cunningham, Gay and Powell",
+                    "location": "Austin",
+                    "contact": {
+                        "phone": "632.736.0067",
+                        "email": "ashleymclaughlin@example.org"
+                    },
+                    "appointmentFee": 367
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Ethan Brown",
+                "cardNumber": "9947704149525020",
+                "expiryMonth": "11",
+                "expiryYear": "43",
+                "cvv": "251"
+            }
+        }
+    },
+    {
+        "prompt": "Hi, I am looking for a Nephrologist Clinic - Zuniga-Young at New Orleans that specializes in Nephrologist. It has to be nearby. Also, I might need an appointment. My details are Amelia Hall and my contact information is 1022566414, user7005@gmail.com, you can choose this 10:00 AM, December 24, 2030, Tue, my payment information is  Elijah Wright, 5945140992351298, 472, Expiry:  05/53, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Amelia",
+                "lastName": "Hall",
+                "email": "user7005@gmail.com",
+                "phone": "1022566414"
+            },
+            "bookingDetails": {
+                "selectedDate": "24-12-2030",
+                "selectedDay": "Tue",
+                "selectedTime": "10:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor Darren Taylor",
+                    "speciality": "Nephrologist",
+                    "clinic": "Nephrologist Clinic - Zuniga-Young",
+                    "location": "New Orleans",
+                    "contact": {
+                        "phone": "001-672-397-8861x821",
+                        "email": "jerryhamilton@example.com"
+                    },
+                    "appointmentFee": 249
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Elijah Wright",
+                "cardNumber": "5945140992351298",
+                "expiryMonth": "05",
+                "expiryYear": "53",
+                "cvv": "472"
+            }
+        }
+    },
+    {
+        "prompt": "Hi, i want to book an appointment for Ophthalmologist Ophthalmologist Clinic - Martin, Wells and Gonzalez around Chicago.  I am feeling a fever. I will provide you with my information Lucas Hall, my phone 2378868919, and user6332@outlook.com.please select 1:00 PM, and November 24, 2033, Thu, Card Information: Ethan Hall, 7818575346940035, 987, Expiry: 04/19, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Lucas",
+                "lastName": "Hall",
+                "email": "user6332@outlook.com",
+                "phone": "2378868919"
+            },
+            "bookingDetails": {
+                "selectedDate": "24-11-2033",
+                "selectedDay": "Thu",
+                "selectedTime": "1:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Bryan Diaz",
+                    "speciality": "Ophthalmologist",
+                    "clinic": "Ophthalmologist Clinic - Martin, Wells and Gonzalez",
+                    "location": "Chicago",
+                    "contact": {
+                        "phone": "346-875-5762x44002",
+                        "email": "daniel14@example.com"
+                    },
+                    "appointmentFee": 269
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Ethan Hall",
+                "cardNumber": "7818575346940035",
+                "expiryMonth": "04",
+                "expiryYear": "19",
+                "cvv": "987"
+            }
+        }
+    },
+    {
+        "prompt": "I want to book an appointment at Gastroenterologist Clinic - Fisher-Smith in New Orleans. I need a Gastroenterologist doctor, I Sophia Jackson. My phone number 3410992940 and email user3761@doccure.com. Help me get a slot on Wed, August 21, 2019, at 2:00 PM. I will be paying with Credit Card, Harper Wright, 3888649168882899, 383, Expiry: 02/77.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Sophia",
+                "lastName": "Jackson",
+                "email": "user3761@doccure.com",
+                "phone": "3410992940"
+            },
+            "bookingDetails": {
+                "selectedDate": "21-08-2019",
+                "selectedDay": "Wed",
+                "selectedTime": "2:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Peter Hernandez",
+                    "speciality": "Gastroenterologist",
+                    "clinic": "Gastroenterologist Clinic - Fisher-Smith",
+                    "location": "New Orleans",
+                    "contact": {
+                        "phone": "297.463.9109",
+                        "email": "wcook@example.net"
+                    },
+                    "appointmentFee": 276
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Harper Wright",
+                "cardNumber": "3888649168882899",
+                "expiryMonth": "02",
+                "expiryYear": "77",
+                "cvv": "383"
+            }
+        }
+    },
+    {
+        "prompt": "Today, I looking to book an appointment of Plastic Surgeon Plastic Surgeon Clinic - Taylor, Evans and Schmidt. Help me out by sorting this. My home is in San Diego. This June 14, 2018, Thu, 2:00 PM will suit me. My name is John Harris, phone 7186726178, email user9177@doccure.com. My payment information is Noah Smith, 0227753840230808, 603, Expiry: 07/04, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "John",
+                "lastName": "Harris",
+                "email": "user9177@doccure.com",
+                "phone": "7186726178"
+            },
+            "bookingDetails": {
+                "selectedDate": "14-06-2018",
+                "selectedDay": "Thu",
+                "selectedTime": "2:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Katherine Wright",
+                    "speciality": "Plastic Surgeon",
+                    "clinic": "Plastic Surgeon Clinic - Taylor, Evans and Schmidt",
+                    "location": "San Diego",
+                    "contact": {
+                        "phone": "(805)438-9756x0275",
+                        "email": "vrodriguez@example.com"
+                    },
+                    "appointmentFee": 252
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Noah Smith",
+                "cardNumber": "0227753840230808",
+                "expiryMonth": "07",
+                "expiryYear": "04",
+                "cvv": "603"
+            }
+        }
+    },
+    {
+        "prompt": "i want to visit  a doctor  who has Anesthesiologist expertise and works at a Anesthesiologist Clinic - Ingram-Mcgee? I want to get checked this week January 09, 2026, Fri, 2:00 PM at Las Vegas. I James Brown, my phone number is 8770150111 and my email is user3384@mail.com. Payment information is Liam Clark, 8231992370393044, 248, 12/55, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "James",
+                "lastName": "Brown",
+                "email": "user3384@mail.com",
+                "phone": "8770150111"
+            },
+            "bookingDetails": {
+                "selectedDate": "09-01-2026",
+                "selectedDay": "Fri",
+                "selectedTime": "2:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Jennifer Murphy",
+                    "speciality": "Anesthesiologist",
+                    "clinic": "Anesthesiologist Clinic - Ingram-Mcgee",
+                    "location": "Las Vegas",
+                    "contact": {
+                        "phone": "509.407.3221x844",
+                        "email": "annelucas@example.net"
+                    },
+                    "appointmentFee": 360
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Liam Clark",
+                "cardNumber": "8231992370393044",
+                "expiryMonth": "12",
+                "expiryYear": "55",
+                "cvv": "248"
+            }
+        }
+    },
+    {
+        "prompt": "Hello, I want to book an appointment with a Ophthalmologist doctor, and I prefer a Ophthalmologist Clinic - Mcintyre PLC near Atlanta. My name is Sophia White. My contact information is 6321682744, user9248@outlook.com. I prefered this 3:00 PM, August 22, 2018, Wed. my payment information is James Clark, 0155333345464177, 998, Expiry: 03/22, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Sophia",
+                "lastName": "White",
+                "email": "user9248@outlook.com",
+                "phone": "6321682744"
+            },
+            "bookingDetails": {
+                "selectedDate": "22-08-2018",
+                "selectedDay": "Wed",
+                "selectedTime": "3:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Justin Murray",
+                    "speciality": "Ophthalmologist",
+                    "clinic": "Ophthalmologist Clinic - Mcintyre PLC",
+                    "location": "Atlanta",
+                    "contact": {
+                        "phone": "001-412-467-5981",
+                        "email": "leonardmelanie@example.org"
+                    },
+                    "appointmentFee": 342
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "James Clark",
+                "cardNumber": "0155333345464177",
+                "expiryMonth": "03",
+                "expiryYear": "22",
+                "cvv": "998"
+            }
+        }
+    },
+    {
+        "prompt": "I have been looking for an appointment go for Urologist treatment. If you have any information regarding Urologist Clinic - Goodwin-Peterson at Los Angeles, I will appreciate it. Choose any slot for me that is very soon. December 16, 2031, Tue, 3:00 PM. My information is Noah Brown, 8312398810, user4677@gmail.com.Payment information Sarah Taylor, 9040506371695094, 926, Expiry: 02/59, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Noah",
+                "lastName": "Brown",
+                "email": "user4677@gmail.com",
+                "phone": "8312398810"
+            },
+            "bookingDetails": {
+                "selectedDate": "16-12-2031",
+                "selectedDay": "Tue",
+                "selectedTime": "3:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Christina Rodriguez",
+                    "speciality": "Urologist",
+                    "clinic": "Urologist Clinic - Goodwin-Peterson",
+                    "location": "Los Angeles",
+                    "contact": {
+                        "phone": "001-369-271-5689x3161",
+                        "email": "mmunoz@example.org"
+                    },
+                    "appointmentFee": 342
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Sarah Taylor",
+                "cardNumber": "9040506371695094",
+                "expiryMonth": "02",
+                "expiryYear": "59",
+                "cvv": "926"
+            }
+        }
+    },
+    {
+        "prompt": "I want to book an appointment at Endocrinologist Clinic - Anderson, Dawson and Robles in Dallas. I need a Endocrinologist doctor, I Olivia Walker. My phone number 7325119516 and email user3251@doccure.com. Help me get a slot on Mon, May 08, 2034, at 1:00 PM. I will be paying with Credit Card, Emily Anderson, 2907518276067234, 577, Expiry: 09/58.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Olivia",
+                "lastName": "Walker",
+                "email": "user3251@doccure.com",
+                "phone": "7325119516"
+            },
+            "bookingDetails": {
+                "selectedDate": "08-05-2034",
+                "selectedDay": "Mon",
+                "selectedTime": "1:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Douglas Hall",
+                    "speciality": "Endocrinologist",
+                    "clinic": "Endocrinologist Clinic - Anderson, Dawson and Robles",
+                    "location": "Dallas",
+                    "contact": {
+                        "phone": "821.892.7516x9624",
+                        "email": "victor17@example.org"
+                    },
+                    "appointmentFee": 209
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Emily Anderson",
+                "cardNumber": "2907518276067234",
+                "expiryMonth": "09",
+                "expiryYear": "58",
+                "cvv": "577"
+            }
+        }
+    },
+    {
+        "prompt": "Hi, I want to schedule a check-up for me at a Allergist Allergist Clinic - Thornton and Sons at San Francisco. Give me the earliest possible slot at 11:00 AM, September 08, 2019, Sun, so that I can get myself checked. I Emma Wright, with my contact information 2015693326, user2849@yahoo.com, and the payment details are Sophia Allen, 0098384852884074, 746, Expiry: 01/73, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Emma",
+                "lastName": "Wright",
+                "email": "user2849@yahoo.com",
+                "phone": "2015693326"
+            },
+            "bookingDetails": {
+                "selectedDate": "08-09-2019",
+                "selectedDay": "Sun",
+                "selectedTime": "11:00 AM",
+                "doctorDetails": {
+                    "name": "Doctor Hector Guerrero",
+                    "speciality": "Allergist",
+                    "clinic": "Allergist Clinic - Thornton and Sons",
+                    "location": "San Francisco",
+                    "contact": {
+                        "phone": "571.813.9882x11581",
+                        "email": "sarahreynolds@example.org"
+                    },
+                    "appointmentFee": 195
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Sophia Allen",
+                "cardNumber": "0098384852884074",
+                "expiryMonth": "01",
+                "expiryYear": "73",
+                "cvv": "746"
+            }
+        }
+    },
+    {
+        "prompt": "I need to book an appointment to meet the doctor soon. Give me the details of most reliable Pulmonologist Pulmonologist Clinic - Garcia, Hensley and Steele, and it will be near Seattle. The time will be 2:00 PM, and the date will be September 06, 2034 on Wed. I will provide you my information including card information. Mia Adams, 2928548278, user9899@gmail.com.Payment Details Ethan Allen, 5149569087347645, 713, Expiry: 06/ 85, Credit Card.",
+        "bookingResults": {
+            "userDetails": {
+                "firstName": "Mia",
+                "lastName": "Adams",
+                "email": "user9899@gmail.com",
+                "phone": "2928548278"
+            },
+            "bookingDetails": {
+                "selectedDate": "06-09-2034",
+                "selectedDay": "Wed",
+                "selectedTime": "2:00 PM",
+                "doctorDetails": {
+                    "name": "Doctor Brian Villa",
+                    "speciality": "Pulmonologist",
+                    "clinic": "Pulmonologist Clinic - Garcia, Hensley and Steele",
+                    "location": "Seattle",
+                    "contact": {
+                        "phone": "001-853-275-5154",
+                        "email": "vhall@example.org"
+                    },
+                    "appointmentFee": 409
+                }
+            },
+            "paymentDetails": {
+                "paymentMethod": "Credit Card",
+                "cardName": "Ethan Allen",
+                "cardNumber": "5149569087347645",
+                "expiryMonth": "06",
+                "expiryYear": "85",
+                "cvv": "713"
+            }
+        }
+    }
+]

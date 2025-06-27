@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "Card 1",
+        "imageUrl": "/images/service-01.svg",
+        "hoverColor": "#eae9ff",
+        "text": "Book Appointment"
+    },
+    {
+        "id": 2,
+        "title": "Card 2",
+        "imageUrl": "/images/service-02.svg",
+        "hoverColor": "#f1ffdb",
+        "text": "Lab Testing Service"
+    },
+    {
+        "id": 3,
+        "title": "Card 3",
+        "imageUrl": "/images/service-03.svg",
+        "hoverColor": "#c9f3ff",
+        "text": "Medicine & Supplies"
+    },
+    {
+        "id": 4,
+        "title": "Card 4",
+        "imageUrl": "/images/service-04.svg",
+        "hoverColor": "#ffe5e4",
+        "text": "Hospital / Clinic"
+    },
+    {
+        "id": 5,
+        "title": "Card 5",
+        "imageUrl": "/images/service-05.svg",
+        "hoverColor": "#d8ffda",
+        "text": "HealthCare Service"
+    },
+    {
+        "id": 6,
+        "title": "Card 6",
+        "imageUrl": "/images/service-06.svg",
+        "hoverColor": "#ffd9f0",
+        "text": "Talk's to Doctor"
+    },
+    {
+        "id": 7,
+        "title": "Card 7",
+        "imageUrl": "/images/service-07.svg",
+        "hoverColor": "#ffeadf",
+        "text": "Home Care Services"
+    },
+    {
+        "id": 2,
+        "title": "Card 2",
+        "imageUrl": "/images/service-02.svg",
+        "hoverColor": "#f1ffdb",
+        "text": "Lab Testing Service"
+    }
+]

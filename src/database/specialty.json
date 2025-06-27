@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Card 1",
+        "imageUrl": "/images/specialities-01",
+        "text": "Orthodontics"
+    },
+    {
+        "id": 2,
+        "title": "Card 2",
+        "imageUrl": "/images/specialities-02",
+        "text": "Periodontics"
+    },
+    {
+        "id": 3,
+        "title": "Card 3",
+        "imageUrl": "/images/specialities-03",
+        "text": "Endodontics"
+    },
+    {
+        "id": 4,
+        "title": "Card 4",
+        "imageUrl": "/images/specialities-04",
+        "text": "Oral Surgery"
+    },
+    {
+        "id": 5,
+        "title": "Card 5",
+        "imageUrl": "/images/specialities-05",
+        "text": "Cosmetic Dentistry"
+    },
+    {
+        "id": 6,
+        "title": "Card 6",
+        "imageUrl": "/images/specialities-06",
+        "text": "Pediatric Dentistry"
+    }
+]

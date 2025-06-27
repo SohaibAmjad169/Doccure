@@ -1,0 +1,191 @@
+/* Keyframes for Animations */
+@keyframes moveUpDown {
+    0% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(10px);
+    }
+    100% {
+        transform: translateY(0);
+    }
+}
+
+.animate-move1 {
+    animation: moveUpDown 3s ease-in-out infinite;
+}
+
+.animate-move2 {
+    animation: moveUpDown 3s ease-in-out infinite;
+}
+
+.animate-move3 {
+    animation: moveUpDown 4s ease-in-out infinite;
+}
+
+/* Custom Date Picker Input */
+.custom-date-picker {
+    border: none !important;
+    box-shadow: none !important;
+    width: 150px;
+    font-size: 14px;
+    background: transparent !important;
+    outline: none !important;
+    border-bottom: 2px solid #0e82fd; /* Only bottom border */
+    border-radius: 0;
+    padding: 8px 0; /* Adjust padding for alignment */
+    display: flex;
+    align-items: center; /* Aligns vertically */
+}
+
+.custom-date-picker input {
+    border: none !important;
+    box-shadow: none !important;
+    outline: none;
+    width: 100%;
+    background: transparent !important;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+}
+
+/* Adjust Date and Icon Spacing */
+.custom-date-picker .MuiInputAdornment-root {
+    margin-left: -5px; /* Decrease space between date and icon */
+}
+
+/* Align Icon with Date Text */
+.custom-date-picker .MuiSvgIcon-root {
+    font-size: 20px;
+    vertical-align: middle;
+    color: #757575;
+}
+
+/* Align DatePicker with Other Fields */
+.custom-date-picker .MuiInputBase-root {
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.custom-date-picker .MuiOutlinedInput-root {
+    padding: 0;
+}
+
+/* Align with Other Input Fields */
+.flex-1.px-2.text-[14px] {
+    display: flex;
+    align-items: center;
+}
+
+/* Adjust DatePicker Height to Match Other Inputs */
+.custom-date-picker .MuiInputBase-input {
+    padding: 8px 0;
+    line-height: normal;
+}
+
+/* Custom calendar styling */
+.custom-calendar {
+    height: auto;
+    width: auto;
+    color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+/* Custom Calendar Popper */
+.custom-calendar .MuiPaper-root {
+    width: auto !important;
+    max-height: unset !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    border: none !important;
+    outline: none !important;
+    background-color: #fff !important;
+}
+
+.custom-calendar .MuiPickersDay-root {
+    border: none !important;
+    box-shadow: none !important;
+    margin: 2px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 50%;
+    color: #333;
+}
+
+.custom-calendar .MuiPickersDay-root.Mui-selected {
+    background-color: #0e82fd !important;
+    color: white !important;
+    border: none !important;
+}
+
+.custom-calendar .MuiPickersDay-root:hover {
+    background-color: #e0f7ff !important;
+    color: #333;
+}
+
+/* Custom Calendar Header */
+.custom-calendar .MuiPickersCalendarHeader-root {
+    border-bottom: none !important;
+    box-shadow: none !important;
+    background-color: transparent;
+    color: #333;
+    padding: 8px;
+}
+
+/* Custom Calendar Navigation Buttons */
+.custom-calendar .MuiIconButton-root {
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+    color: #757575;
+    padding: 4px;
+    margin: 0;
+}
+
+/* Adjust DatePicker Height to Match Other Inputs */
+.custom-date-picker .MuiInputBase-input {
+    padding: 8px 0;
+    line-height: normal;
+}
+
+/* Remove Box Shadow from Input */
+.custom-date-picker .MuiInputBase-root {
+    border: none !important;
+    box-shadow: none !important;
+    border-bottom: 2px solid #0e82fd !important;
+    border-radius: 0 !important;
+    padding-bottom: 2px;
+}
+
+.custom-date-picker .MuiOutlinedInput-root {
+    border: none !important;
+    box-shadow: none !important;
+    border-bottom: 2px solid #0e82fd !important;
+    border-radius: 0;
+}
+
+.custom-date-picker .MuiOutlinedInput-notchedOutline {
+    border: none !important;
+    display: none !important;
+}
+
+/* Optional - Styling for the icons inside the dropdowns */
+.custom-select option {
+    font-size: 14px;
+    padding: 6px;
+}
+
+/* Adjusts Height and Vertical Alignment */
+.flex-1.pe-2,
+.flex-1.px-2 {
+    display: flex;
+    align-items: center;
+    height: 48px;
+    box-sizing: border-box;
+}
